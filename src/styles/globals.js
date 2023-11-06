@@ -29,7 +29,7 @@ const GlobalStyles = createGlobalStyle`
     text-decoration: none;
   }
   li{
-    list-style: none;
+    list-style: none; 
   }
 
 `;
