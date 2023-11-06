@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Developed and enhanced an e-commerce platform catering to tech products such as phones, laptops, and electronics. Implemented features like product catalog, user accounts, secure payment processing, and order tracking. Continuously monitored site performance, resolved technical issues promptly, and conducted regular updates to enhance functionality and security. Contributed to a successful digital storefront that effectively showcased tech products and drove sales.",
     image: ["/images/e-commercial-shop.png"],
-    tags: ["React.js", "NextJs 13", "Tailwind CSS", "MongoDB", "JavaScript"],
+    tags: ["React.js", "NextJs", "Tailwind CSS", "MongoDB", "JavaScript"],
     source: "https://github.com/Shivam-Batham",
     visit: "https://github.com/Shivam-Batham",
     id: 3,
