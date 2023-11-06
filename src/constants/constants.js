@@ -34,11 +34,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Started my journey', },
+  { year: 2019, text: 'Go through basics and fundamentals', },
+  { year: 2019, text: 'learn Pyathon', },
+  { year: 2020, text: 'Learn C++ in depth', },
+  { year: 2023, text: 'Learn JavaScript in depth', },
 ];
 
 // working on it
@@ -47,7 +47,7 @@ export const TimeLineData = [
 //   description:
 //     "The project is a fully responsive modern restaurant application designed to provide to show design abilities. It includes features such as a responsive layout, a video demonstration, menu display, online ordering, table reservation, interactive elements. The application showcases your skills in web development, highlighting your ability to create visually appealing and functional applications for the restaurant industry.",
 //   image: ["/images/restaurant.png"],
-//   tags: ["React", "WebRTC","JavaScript"],
+//   tags: ["React", ,"JavaScript"],
 //   source: "https://github.com/Shivam-Batham",
 //   visit: "https://github.com/Shivam-Batham",
 //   id: 4,
