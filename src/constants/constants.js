@@ -21,6 +21,16 @@ export const projects = [
     visit: "https://shivam-batham.github.io/Mini_Project-MPGI/",
     id: 4,
   },
+  {
+    title: "Modern Resume",
+    description:
+    "This is a new generation Resume website, which can be used as a portfolio website. It is a single page website which is made using HTML, CSS and JavaScript.",
+    image: ["/images/resume.png"],
+    tags: ["HTML", "CSS","JavaScript"],
+    source: "https://github.com/Shivam-Batham/modernResume",
+    visit: "https://shivam-batham.github.io/modernResume/",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
